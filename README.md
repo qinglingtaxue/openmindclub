@@ -23,3 +23,6 @@
 另一种写作，是给自己看的，就不讲究什么方法了。
 
 以上是我对于写作的认识。以及为什么要学习这门课程。
+
+# 参考
+[开智学堂认知写作学二期学习手记(shuangfarmer@gitbook)][https://legacy.gitbook.com/book/shuangfarmer/bookwriter002/details ]
