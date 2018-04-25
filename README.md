@@ -25,4 +25,4 @@
 以上是我对于写作的认识。以及为什么要学习这门课程。
 
 # 参考
-[开智学堂认知写作学二期学习手记(shuangfarmer@gitbook)][https://legacy.gitbook.com/book/shuangfarmer/bookwriter002/details ]
+[开智学堂认知写作学二期学习手记(shuangfarmer@gitbook](https://legacy.gitbook.com/book/shuangfarmer/bookwriter002/details)
